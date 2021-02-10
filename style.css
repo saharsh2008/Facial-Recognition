@@ -1,0 +1,19 @@
+body {
+    color : white;
+    background-color : orange;
+}
+
+.heading {
+    width : 80%;
+    font-size : 22px;
+}
+
+#camera {
+    border : 2px double black ;
+    width : 350px;
+    height : 300px;
+}
+
+.nameOfObjects, #resultObjectName, #resultObjectAccuracy {
+    color : white;
+}
